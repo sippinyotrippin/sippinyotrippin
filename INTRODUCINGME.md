@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sippinyotrippin
-- 👀 I’m interested in web-developing, crypto
+- 👀 I’m interested in web-developing
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: DM in telegram https://t.me/hiddenheisen
